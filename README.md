@@ -5,13 +5,13 @@ Dans ce tutoriel nous allons voir comment utiliser Gulp.
 ## Environnement
 
 -   [Node.js](http://nodejs.org/)
--   [Gulp](http://gulpjs.com/)
 -   [Bower](http://bower.io/)
+-   [Gulp](http://gulpjs.com/)
 
 ## Démarrage
 
-    git clone https://github.com/Infinite-Studio
-    cd
+    git clone https://github.com/Infinite-Studio/tuto-gulp-introduction
+    cd tuto-gulp-introduction
     npm install
     bower install
     gulp
