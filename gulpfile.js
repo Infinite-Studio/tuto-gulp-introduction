@@ -68,7 +68,7 @@ gulp.task('server:prod', function() {
         .pipe($.open("", options));
 });
 
-// Compile les SCSS : !!! https://github.com/ai/autoprefixer !!!
+// Compile les SCSS
 gulp.task('scss', function () {
     return gulp.src('app/scss/app.scss')
         .pipe($.plumber())

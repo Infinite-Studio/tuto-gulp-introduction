@@ -12,6 +12,7 @@ Dans ce tutoriel nous allons voir comment utiliser Gulp.
 
     git clone https://github.com/Infinite-Studio/tuto-gulp-introduction
     cd tuto-gulp-introduction
+    npm install - g gulp
     npm install
     bower install
     gulp
