@@ -27,6 +27,5 @@ atlassian-ide-plugin.xml
 com_crashlytics_export_strings.xml
 
 # Application
-dist
-node_modules
-app/bower_components
+dist/
+node_modules/
